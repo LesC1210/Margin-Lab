@@ -1,0 +1,4 @@
+1. The program handles 12 pt font only
+2. The program does not allow negative margin values
+3. The margin values added together * 6 has to be less than 80 to avoid overlap
+4. One inch is 6 whitespaces
